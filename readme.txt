@@ -1,1 +1,1 @@
-Интеграция между веб-сайтом (Vue.js), бэкендом (например, Symfony или Laravel) и мобильным приложением (Android)
+Integration between website (Vue.js), backend (such as Symfony or Laravel) and mobile app (Android)
