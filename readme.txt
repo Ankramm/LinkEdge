@@ -1,1 +1,1 @@
-Integration between website (Vue.js), backend (such as Symfony or Laravel) and mobile app (Android)
+Integration between website (Vue.js & Tailwind Css), backend (such as Symfony or Laravel) and mobile app (Android).
